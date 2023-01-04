@@ -1,3 +1,22 @@
 article .button {
     margin: 0 .75em 1em 1em;
 }
+
+.logo {
+    overflow: hidden;
+}
+
+table th {
+    text-align: center;
+}
+
+#header .content .inner {
+    max-height: max-content;
+}
+
+#bg {
+    -webkit-filter:brightness(0.5);
+    -o-filter:brightness(0.5);
+    -moz-filter:brightness(0.5);
+    filter:brightness(0.5);
+}
